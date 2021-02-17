@@ -34,14 +34,30 @@ span {
 }
 
 .bottom-container {
-  
+
 }
 
 .top-cloud {
   position: relative;
-  left: 200px;
+  left: 20px;
 }
 
 .bottom-cloud {
   position: absolute;
+}
+
+.me_img {
+  height: 150px;
+  background-color: #E9FBF7;
+  border-radius: 70px;
+}
+
+.profile_titles {
+  font-family: 'Sacramento', cursive;
+}
+
+.computer_img {
+  height: 150px;
+  background-color: #E9FBF7;
+  border-radius: 70px;
 }
