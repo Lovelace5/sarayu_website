@@ -5,12 +5,16 @@ body {
 }
 
 h1 {
-  margin-top: 30;
+  margin: 80px auto 0 auto;
   font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
 }
 
 h3 {
@@ -39,7 +43,8 @@ span {
 
 .top-cloud {
   position: relative;
-  left: 20px;
+  left: 250px;
+  top: 50px;
 }
 
 .bottom-cloud {
@@ -57,6 +62,11 @@ span {
 }
 
 .computer_img {
+  height: 150px;
+  background-color: #E9FBF7;
+  border-radius: 70px;
+}
+.python_img {
   height: 150px;
   background-color: #E9FBF7;
   border-radius: 70px;
