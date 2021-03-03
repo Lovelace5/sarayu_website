@@ -90,7 +90,9 @@ a:hover {
   background-color: #E9FBF7;
   border-radius: 70px;
 }
-
+.profile {
+  margin-bottom: 100px;
+}
 .profile_titles {
   font-family: 'Sacramento', cursive;
 }
